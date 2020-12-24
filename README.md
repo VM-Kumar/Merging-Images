@@ -1,7 +1,7 @@
 # Merging-Images
 **Goal**:To choose a region of one image and merge it with another image seamlessly, to create fun and interesting combinations 
 
-![github_pic](https://user-images.githubusercontent.com/70597312/103101628-89474c80-463e-11eb-883e-62ec723284e7.PNG)
+![Capture](https://user-images.githubusercontent.com/70597312/103102303-5d799600-4641-11eb-8d13-cdbb6a9f1b90.PNG)
 
 The content is organized as follows:
 1. [description_report.pdf](https://github.com/VM-Kumar/Merging-Images/blob/main/description_report.pdf): Detailed report on methodology of merging and functioning of code. Also involves details of chosing shaped regions to merge.
